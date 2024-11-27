@@ -32,11 +32,15 @@
 
 ## Input:
 
+![aluminium-door-stopper-1000x1000](https://github.com/user-attachments/assets/4161602c-f3ea-4fe6-a400-90d87e500fe4)
+
 ### Output:
+![Screenshot 2024-11-27 074952](https://github.com/user-attachments/assets/4c66a85a-f91b-4023-a9ff-63d6afba4453)
 
 
-### Name:
-### Register Number:
+
+### Name:KIRAN.M.P
+### Register Number:24000839
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
